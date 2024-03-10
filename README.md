@@ -4,7 +4,7 @@ GARAGE aims to revolutionize the way users explore and discover their dream cars
 
 **Features**
 
-Advanced Search and Filtering: Users can easily search for cars based on various criteria, such as make, model, year, and price range, ensuring a tailored browsing experience.
+Advanced Search and Filtering: Users can easily search for cars based on various criteria, such as make, model, year, and gas milage, ensuring a tailored browsing experience.
 API Integration: Seamless integration of APIs enables users to access a diverse range of cars from various sources, expanding the selection and enhancing the user experience.
 Custom UI Components: Carefully crafted custom UI components contribute to a fluid and modern interface, elevating usability and aesthetics.
 
